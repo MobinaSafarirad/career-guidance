@@ -3,7 +3,6 @@
 A Python program that recommends jobs based on your **personality type** and **self‑rated skills**.  
 Answers 10 questions, slides a few bars, and instantly gets a career roadmap + market score.
 
----
 
 ## Features
 
@@ -15,7 +14,6 @@ Answers 10 questions, slides a few bars, and instantly gets a career roadmap + m
 - Clean, offline GUI built with Tkinter
 - Model persists – trains once, reuses later
 
----
 
 ## Requirements
 
@@ -24,7 +22,6 @@ Answers 10 questions, slides a few bars, and instantly gets a career roadmap + m
 - pandas
 - joblib
 
----
 
 ## Installation
 
@@ -65,7 +62,6 @@ pip install -r requirements.txt
 
 > On first run, the model trains itself (~2 seconds). Next launches are instant.
 
----
 
 ## Usage
 
@@ -79,7 +75,6 @@ python main.py
 4. Click **Show the results**
 5. Read your recommended job, market score, and career roadmap
 
----
 
 ## Example
 
@@ -101,7 +96,6 @@ Your career roadmap:
  - Data Analytics Manager
 ```
 
----
 
 # How It Works
 
@@ -114,7 +108,7 @@ Your career roadmap:
 
 The database of jobs is stored in `jobs_data.py`. The model is trained once when `model.pkl` does not exist.
 
----
+
 
 ## Project Structure
 
@@ -135,7 +129,7 @@ career-guidance/
 └── README.md
 ```
 
----
+
 
 ## Customization
 
@@ -149,12 +143,12 @@ career-guidance/
     "roadmap": ["step1", "step2", ...]
   }
   ```
-- **Change questions** – edit `personality.py` (keep mapping keys: `الف`, `ب`, `ج`, `د`)
+- **Change questions** – edit `personality.py` (keep mapping keys: `A`, `B`, `C`, `D`)
 - **Update skill categories** – change `skills_list` in both `main.py` and `scoring.py`
 
 After any change to jobs or questions, **delete `model.pkl`** and restart – the model will retrain automatically.
 
----
+
 
 ## License
 
