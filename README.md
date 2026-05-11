@@ -158,6 +158,6 @@ After any change to jobs or questions, **delete `model.pkl`** and restart – th
 
 ## License
 
-MIT – free to use, modify, and distribute.
+MIT, free to use, modify, and distribute.
 
 
