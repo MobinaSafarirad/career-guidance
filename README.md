@@ -5,7 +5,7 @@ Answers 10 questions, slides a few bars, and instantly gets a career roadmap + m
 
 ---
 
-## ✨ Features
+## Features
 
 - 10‑question personality test (analytical, creative, social, leadership)
 - Skill self‑assessment (0–10) for 5 areas: analytical, logic, creativity, communication, leadership
@@ -17,7 +17,7 @@ Answers 10 questions, slides a few bars, and instantly gets a career roadmap + m
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.7+
 - scikit‑learn
@@ -25,7 +25,7 @@ Answers 10 questions, slides a few bars, and instantly gets a career roadmap + m
 
 ---
 
-## 🔧 Installation
+## Installation
 
 **Using Virtual Environment (Recommended)**
 
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🎮 Usage
+## Usage
 
 ```bash
 python main.py
@@ -80,7 +80,7 @@ python main.py
 
 ---
 
-## 📖 Example
+## Example
 
 Suppose a user gets:
 
@@ -102,7 +102,7 @@ Your career roadmap:
 
 ---
 
-## ⚙️ How It Works
+# How It Works
 
 1. **Personality test** → each answer maps to one of 4 types (analytical, creative, social, leadership).  
 2. **Skill sliders** → user sets 5 numeric values (0–10).  
@@ -115,7 +115,7 @@ The database of jobs is stored in `jobs_data.py`. The model is trained once when
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 career-guidance/
@@ -136,7 +136,7 @@ career-guidance/
 
 ---
 
-## 🛠️ Customization
+## Customization
 
 - **Add or edit jobs** – modify `jobs_data.py`. Each job needs:
   ```python
@@ -155,7 +155,7 @@ After any change to jobs or questions, **delete `model.pkl`** and restart – th
 
 ---
 
-## 📄 License
+## License
 
 MIT – free to use, modify, and distribute.
 
