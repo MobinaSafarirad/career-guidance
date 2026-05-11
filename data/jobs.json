@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Software Developer",
+    "skills": {
+      "analytical": 9,
+      "logic": 9,
+      "creativity": 6,
+      "communication": 5,
+      "leadership": 4
+    },
+    "personality": "analytical",
+    "market_score": 90,
+    "roadmap": [
+      "Junior Developer",
+      "Mid-level Developer",
+      "Senior Developer",
+      "Team Lead",
+      "CTO (Chief Technology Officer)"
+    ]
+  },
+  {
+    "title": "Data Analyst",
+    "skills": {
+      "analytical": 9,
+      "logic": 8,
+      "creativity": 5,
+      "communication": 6,
+      "leadership": 4
+    },
+    "personality": "analytical",
+    "market_score": 85,
+    "roadmap": [
+      "Junior Data Analyst",
+      "Data Analyst",
+      "Senior Data Analyst",
+      "Data Scientist",
+      "Data Analytics Manager"
+    ]
+  },
+  {
+    "title": "Graphic Designer",
+    "skills": {
+      "analytical": 4,
+      "logic": 4,
+      "creativity": 9,
+      "communication": 6,
+      "leadership": 5
+    },
+    "personality": "creative",
+    "market_score": 70,
+    "roadmap": [
+      "Junior Designer",
+      "Mid-level Designer",
+      "Senior Designer",
+      "Art Director",
+      "Creative Director"
+    ]
+  },
+  {
+    "title": "Marketing Specialist",
+    "skills": {
+      "analytical": 6,
+      "logic": 6,
+      "creativity": 7,
+      "communication": 9,
+      "leadership": 6
+    },
+    "personality": "social",
+    "market_score": 80,
+    "roadmap": [
+      "Marketing Specialist",
+      "Campaign Manager",
+      "Marketing Manager",
+      "Brand Manager",
+      "Chief Marketing Officer"
+    ]
+  },
+  {
+    "title": "Project Manager",
+    "skills": {
+      "analytical": 7,
+      "logic": 7,
+      "creativity": 5,
+      "communication": 8,
+      "leadership": 9
+    },
+    "personality": "leadership",
+    "market_score": 85,
+    "roadmap": [
+      "Project Coordinator",
+      "Project Manager",
+      "Program Manager",
+      "Operations Manager",
+      "Executive Manager"
+    ]
+  },
+  {
+    "title": "Cybersecurity Specialist",
+    "skills": {
+      "analytical": 9,
+      "logic": 9,
+      "creativity": 6,
+      "communication": 5,
+      "leadership": 5
+    },
+    "personality": "analytical",
+    "market_score": 88,
+    "roadmap": [
+      "Security Specialist",
+      "Security Analyst",
+      "Senior Security Specialist",
+      "Security Architect",
+      "Information Security Manager"
+    ]
+  },
+  {
+    "title": "AI Engineer",
+    "skills": {
+      "analytical": 10,
+      "logic": 9,
+      "creativity": 7,
+      "communication": 6,
+      "leadership": 6
+    },
+    "personality": "analytical",
+    "market_score": 95,
+    "roadmap": [
+      "Junior Machine Learning Engineer",
+      "Machine Learning Engineer",
+      "Senior AI Engineer",
+      "AI Team Lead",
+      "AI R&D Manager"
+    ]
+  }
+]
