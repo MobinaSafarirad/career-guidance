@@ -18,6 +18,7 @@ Answers 10 questions, slides a few bars, and instantly gets a career roadmap + m
 ## Requirements
 
 - Python 3.7+
+- Tkinter
 - scikit‑learn
 - pandas
 - joblib
