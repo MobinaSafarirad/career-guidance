@@ -2,7 +2,7 @@
 from scoring import init_scores, calculate_personality
 from typing import Dict  # import Dict type for type hints
 
-# list of personality questions with options and mapping
+# list of personality questions with options and mapping as well
 QUESTIONS = [
     {
         "question": "When you face a complex problem, what do you do?",
