@@ -9,7 +9,7 @@ Answers 10 questions, slides a few bars, and instantly gets a career roadmap + m
 - 10‑question personality test (analytical, creative, social, leadership)
 - Skill self‑assessment (0–10) for 5 areas: analytical, logic, creativity, communication, leadership
 - Machine learning model (regression model) predicts the most suitable job
-- Shows a career roadmap from junior to executive level
+- Shows a career roadmap from junior to executive levels
 - Displays a market demand score (0–100) for each job
 - Clean, offline GUI built with Tkinter
 - Model persists – trains once, reuses later
