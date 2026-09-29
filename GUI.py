@@ -7,7 +7,7 @@ from personality import QUESTIONS  # import personality questions
 from ML_model import train_model, load_model, predict_job, select_best_job
 import os  # used to check if model file exists or not
 
-# ---------------- Main Window Settings ----------------
+# ---------------- Main Window Settings -----------------
 root = Tk()  # create main window
 root.title("سیستم هدایت شغلی")  # set window title
 root.geometry("700x500")  # set window size
